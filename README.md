@@ -1,5 +1,5 @@
 # RegionGrowing
-https://github.com/Khthinios/RegionGrowing
+https://github.com/Khthinios/RegionGrowing  
 A simple region growing algorithm for matlab
 
 **sreRegionGrowing2**: A 2D RGA that grows until all neighbouring cells are lower than a certain threshold  
